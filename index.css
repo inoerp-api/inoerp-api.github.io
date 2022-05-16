@@ -14,3 +14,11 @@ body {
     margin: 0;
     background: #fafafa;
 }
+
+
+.swagger-ui .info .title {
+    color: #3b4151;
+    font-family: sans-serif;
+    font-size: 1.6em;
+    margin: 0;
+}
