@@ -22,3 +22,7 @@ body {
     font-size: 1.6em;
     margin: 0;
 }
+
+.swagger-ui .info {
+    margin: 1.2em;
+}
